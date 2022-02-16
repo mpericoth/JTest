@@ -1,0 +1,7 @@
+{
+  "scripts":{"tdd": "jest --watch"},
+  
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
